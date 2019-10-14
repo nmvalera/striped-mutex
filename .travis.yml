@@ -20,4 +20,6 @@ script:
   - make misspell-check
   - make run-coverage
   - make race
-  
+
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
