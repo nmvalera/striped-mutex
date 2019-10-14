@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/nmvalera/striped-mutex.svg)](https://travis-ci.org/nmvalera/striped-mutex)
+
 # Striped-Mutex
 
 Implementation of a Striped-Mutex inspired from Guava Java lib Guava: https://github.com/google/guava/wiki/StripedExplained
