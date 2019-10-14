@@ -10,6 +10,9 @@ matrix:
 
 go_import_path: github.com/nmvalera/striped-mutex
 
+install:
+  - make tools
+
 script:
   - make vet
   - make fmt-check
