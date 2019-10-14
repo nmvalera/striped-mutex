@@ -13,4 +13,5 @@
 
 # Coverage
 coverage.html
+coverage.txt
 *.cov.tmp

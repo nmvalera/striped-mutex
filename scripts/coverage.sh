@@ -25,6 +25,7 @@ go tool cover -func="${tmpfile}"
 
 # Generate coverage report in html formart
 go tool cover -html="${tmpfile}" -o coverage.html
+cat "${tmpfile}" >> coverage.txt
 
 # Remove tempdir
 rm -R "${tmpdir}"
