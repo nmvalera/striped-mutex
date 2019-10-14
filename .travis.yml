@@ -14,5 +14,5 @@ script:
   - make vet
   - make fmt-check
   - make misspell-check
-  - make test
+  - make run-coverage
   - make race
