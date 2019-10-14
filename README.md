@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/nmvalera/striped-mutex.svg)](https://travis-ci.org/nmvalera/striped-mutex)
+[![codecov](https://codecov.io/gh/nmvalera/striped-mutex/branch/master/graph/badge.svg)](https://codecov.io/gh/nmvalera/striped-mutex)
 
 # Striped-Mutex
 
